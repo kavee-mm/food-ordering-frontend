@@ -21,6 +21,7 @@ It allows users to browse food items, add them to the cart, manage quantities, a
 ```bash
 npm install
 npm start
+```
 
 ## 📸 Screenshots
 
