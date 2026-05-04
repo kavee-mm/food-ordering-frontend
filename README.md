@@ -21,3 +21,26 @@ It allows users to browse food items, add them to the cart, manage quantities, a
 ```bash
 npm install
 npm start
+
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home](home.png)
+
+### 🍔 Menu Page
+![Menu](menu.png)
+
+### 🛒 Empty Cart
+![Cart Empty](cart-empty.png)
+
+### ➕ Add Item to Cart
+![Add Item](add-item.png)
+
+### 🛒 Cart with Item
+![Cart With Item](cart-with-item.png)
+
+### 📦 Order Placed
+![Order Success](order-success.png)
+
+### 🧹 Cart After Order
+![Cart Cleared](cart-after-order.png)
